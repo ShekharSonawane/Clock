@@ -1,14 +1,14 @@
 {
-  "name": "Calculator",
-  "short_name": "Calc",
+  "name": "Clock",
+  "short_name": "Clock",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#222",
   "theme_color": "#43c6ac",
   "icons": [
     {
-      "src": "calculator.png",
-      "sizes": "192x192",
+      "src": "alarm.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
